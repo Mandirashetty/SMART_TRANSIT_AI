@@ -1,0 +1,6 @@
+{
+  "name": "SmartTransit AI",
+  "description": "AI-powered rural student transportation, crisis command center, and safety platform connecting students, parents, private vehicles, and government buses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
